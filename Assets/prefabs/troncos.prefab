@@ -61,7 +61,7 @@ GameObject:
   - component: {fileID: 7308921664581388984}
   m_Layer: 0
   m_Name: Tronco arriba
-  m_TagString: Untagged
+  m_TagString: obstaculo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -172,7 +172,7 @@ GameObject:
   - component: {fileID: 1898190764791718118}
   m_Layer: 0
   m_Name: Tronco abajo
-  m_TagString: Untagged
+  m_TagString: obstaculo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 8591300577067980387}
   m_Layer: 0
   m_Name: score
-  m_TagString: Untagged
+  m_TagString: score
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -312,7 +312,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.011057854, y: -0.24326599}
