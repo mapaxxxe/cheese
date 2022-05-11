@@ -25,9 +25,9 @@ public class GameManager : MonoBehaviour
         space.SetActive(true);
         gameover.SetActive(false);
         Retry.SetActive(false);
-        exit.SetActive(false);
-        tittle.SetActive(true);
         exit.SetActive(true);
+        tittle.SetActive(true);
+        
         Pause();
     }
 
